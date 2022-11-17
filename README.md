@@ -1,14 +1,26 @@
 # Welcome 👁️
 
-I'm a developer and student at Epitech, a french engineering school.
+![Profile hits](https://komarev.com/ghpvc/?username=mael-queau&color=blue&style=for-the-badge)
 
-I'm currently working on quite a lot of projects, and challenge is what I like the most.
+I'm a developer and student at Epitech, a french school of computer science. 🎓
 
------
+Learning is one of my favorite things to do, I'm always looking for new things to learn. Challenge is also essential to me. Settling doesn't sound like anything I'd like, and learning from my mistakes is always better than not trying anything! Especially when it comes to programming. 💻
+
+In my free time, I like to play guitar and piano, and try to make music. I also like to play video games, although I don't have much time for that these days 🏃
+
+I aspire to participate in the construction of the world to come, and I hope to be able to contribute to the development of the technologies that will make it possible. 🌍
+
+Artificial intelligence and machine learning will be my weapon of choice in achieving that goal! 🤖
+
+And that's it! If you want to know more about me, you can read on below to see what I'm working on, contact me using the links below, or check out my website at [mael-queau.fr](https://mael-queau.fr)!
 
 ## 🛠️ Technologies & Tools
 
+<details><summary>Expand</summary>
+
 ### 📜 Languages
+
+<details><summary>Expand</summary>
 
 🥇 I know:
 
@@ -39,9 +51,11 @@ I'm currently working on quite a lot of projects, and challenge is what I like t
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 
------
+</details>
 
 ### 🧩 Frameworks & Libraries
+
+<details><summary>Expand</summary>
 
 🥇 I use:
 
@@ -65,6 +79,7 @@ I'm currently working on quite a lot of projects, and challenge is what I like t
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Fastify](https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)
 ![Three.js](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 
 🌟 I have also used:
 
@@ -72,9 +87,11 @@ I'm currently working on quite a lot of projects, and challenge is what I like t
 ![Nuxt.js](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![P5.js](https://img.shields.io/badge/p5%20js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white)
 
------
+</details>
 
 ### 📦 Databases
+
+<details><summary>Expand</summary>
 
 🥇 I know:
 
@@ -94,9 +111,11 @@ I'm currently working on quite a lot of projects, and challenge is what I like t
 
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
------
+</details>
 
 ### ⚙️ Tools
+
+<details><summary>Expand</summary>
 
 🥇 I use:
 
@@ -123,9 +142,11 @@ I'm currently working on quite a lot of projects, and challenge is what I like t
 ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=000000)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
------
+</details>
 
 ### ❤️ Other things
+
+<details><summary>Expand</summary>
 
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
@@ -133,3 +154,26 @@ I'm currently working on quite a lot of projects, and challenge is what I like t
 ![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![Copilot](https://img.shields.io/badge/-Copilot-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</details>
+
+</details>
+
+## 📈 Stats
+
+<details><summary>Expand</summary>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mael-queau&show_icons=true&theme=onedark&count_private=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mael-queau&layout=compact&theme=onedark&langs_count=10)
+
+
+</details>
+
+## 📫 Contact
+
+[![Gmail](https://img.shields.io/badge/mael.queau@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mael.queau99@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/%2Fin%2Fmael--queau-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mael-queau)
+
+[![Twitter](https://img.shields.io/badge/@mael__queau-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mael_queau)
