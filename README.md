@@ -165,7 +165,7 @@ And that's it! If you want to know more about me, you can read on below to see w
 
 ![GitHub stats](https://github-readme-stats-eight-chi-98.vercel.app/api?username=mael-queau&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats-eight-chi-98.vercel.app/api/top-langs/?username=mael-queau&layout=compact&theme=dark&langs_count=10&exclude_repo=dotfiles&langs_count=10&count-private=true)
+![Top Langs](https://github-readme-stats-eight-chi-98.vercel.app/api/top-langs/?username=mael-queau&layout=compact&theme=dark&langs_count=8&exclude_repo=dotfiles&count-private=true)
 
 </details>
 
