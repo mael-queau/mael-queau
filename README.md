@@ -2,17 +2,13 @@
 
 ![Profile hits](https://komarev.com/ghpvc/?username=mael-queau&color=blue&style=for-the-badge)
 
-I'm a developer and student at Epitech, a french school of computer science. 🎓
+As a developer and student at Epitech, a French school of computer science, I am constantly seeking new challenges and opportunities to learn and grow. I believe that making mistakes and learning from them is a crucial part of the learning process, especially in the field of programming. 💻
 
-Learning is one of my favorite things to do, I'm always looking for new things to learn. Challenge is also essential to me. Settling doesn't sound like anything I'd like, and learning from my mistakes is always better than not trying anything! Especially when it comes to programming. 💻
+In my free time, I enjoy playing guitar and piano, as well as creating music. I also enjoy playing video games, although I don't have as much time for them nowadays. 🏃
 
-In my free time, I like to play guitar and piano, and try to make music. I also like to play video games, although I don't have much time for that these days 🏃
+My ultimate goal is to be able to contribute to the development of the technologies that will shape the world of the future. I hope to achieve this through my studies and work in artificial intelligence and machine learning. 🌍
 
-I aspire to participate in the construction of the world to come, and I hope to be able to contribute to the development of the technologies that will make it possible. 🌍
-
-Artificial intelligence and machine learning will be my weapon of choice in achieving that goal! 🤖
-
-And that's it! If you want to know more about me, you can read on below to see what I'm working on, contact me using the links below, or check out my website at [mael-queau.fr](https://mael-queau.fr)!
+If you would like to learn more about me, please visit my website at [mael-queau.fr](https://mael-queau.fr), or feel free to contact me using the links provided. Thank you for reading!
 
 ## 🛠️ Technologies & Tools
 
