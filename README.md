@@ -158,7 +158,7 @@ If you would like to learn more about me, please visit my website at [mael-queau
 ## 📈 Stats
 
 | ![Top Langs](https://github-readme-stats-eight-chi-98.vercel.app/api/top-langs/?username=mael-queau&layout=compact&theme=transparent&hide_border=1&langs_count=10&exclude_repo=dotfiles&count-private=true) | ![GitHub stats](https://github-readme-stats-eight-chi-98.vercel.app/api?username=mael-queau&show_icons=true&theme=transparent&hide_title=true&hide_border=1&line_height=33&count_private=true&include_all_commits=true) |
-| --- | --- |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## 📫 Contact
 
