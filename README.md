@@ -2,17 +2,17 @@
 
 ![Profile hits](https://komarev.com/ghpvc/?username=mael-queau&color=blue&style=for-the-badge)
 
-I'm a developer and student at Epitech, a french school of computer science. 🎓
+I'm a developer and a student at Epitech, a French computer science school. 🎓
 
-Learning is one of my favorite things to do, I'm always looking for new things to learn. Challenge is also essential to me. Settling doesn't sound like anything I'd like, and learning from my mistakes is always better than not trying anything! Especially when it comes to programming. 💻
+Learning is one of my favourite things to do, I'm always looking for new things to learn. Challenge is also essential for me. Settling down doesn't sound like something I want to do, and learning from my mistakes is always better than not trying at all! Especially when it comes to programming. 💻
 
-In my free time, I like to play guitar and piano, and try to make music. I also like to play video games, although I don't have much time for that these days 🏃
+In my spare time, I like to play guitar and piano, and try to make music. I also like to play video games, although I don't have much time for that these days 🏃
 
-I aspire to participate in the construction of the world to come, and I hope to be able to contribute to the development of the technologies that will make it possible. 🌍
+I want to help build the world to come, and I hope to be able to contribute to the development of the technologies that will make it possible. 🌍
 
-Artificial intelligence and machine learning will be my weapon of choice in achieving that goal! 🤖
+Artificial intelligence and machine learning will be my weapons of choice to achieve this goal! 🤖
 
-And that's it! If you want to know more about me, you can read on below to see what I'm working on, contact me using the links below, or check out my website at [mael-queau.fr](https://mael-queau.fr)!
+And that's about it! If you want to know more about me, you can read on below to see what I'm working on, contact me using the links below, or check out my website at [mael-queau.fr](https://mael-queau.fr)!
 
 ## 🛠️ Technologies & Tools
 
