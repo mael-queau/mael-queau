@@ -2,18 +2,17 @@
 
 ![Profile hits](https://komarev.com/ghpvc/?username=mael-queau&color=blue&style=for-the-badge)
 
-I'm a developer and a student at Epitech, a French computer science school. 🎓
+I'm a developer and student at Epitech, a French school specialising in Computer Science. 🎓
 
-Learning is one of my favourite things to do, I'm always looking for new things to learn. Challenge is also essential for me. Settling down doesn't sound like something I want to do, and learning from my mistakes is always better than not trying at all! Especially when it comes to programming. 💻
+I really enjoy learning and looking for new challenges to tackle. I don't like sitting still, it's better to learn from mistakes and take risks than not to try at all - especially when it comes to coding! 💻
 
-In my spare time, I like to play guitar and piano, and try to make music. I also like to play video games, although I don't have much time for that these days 🏃
+In my spare time I like to play guitar and piano and try to make music. I also like to play video games, although I don't have much time for that these days 🏃
 
-I want to help build the world to come, and I hope to be able to contribute to the development of the technologies that will make it possible. 🌍
+I want to play my part in shaping the future - and hopefully contribute to the groundbreaking technology that will make it a reality. 🌍
 
-Artificial intelligence and machine learning will be my weapons of choice to achieve this goal! 🤖
+Artificial intelligence and machine learning are going to be my weapons of choice to help me achieve this goal. 🤖
 
-And that's about it! If you want to know more about me, you can read on below to see what I'm working on, contact me using the links below, or check out my website at [mael-queau.fr](https://mael-queau.fr)!
-
+And that's about it! If you want to know more about me, you can read below to see what I'm working on, contact me using the links below, or check out my website at [mael-queau.fr](https://mael-queau.fr)!
 ## 🛠️ Technologies & Tools
 
 <details><summary>Expand</summary>
@@ -27,6 +26,7 @@ And that's about it! If you want to know more about me, you can read on below to
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,13 +36,12 @@ And that's about it! If you want to know more about me, you can read on below to
 
 📚 I'm learning:
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 🌠 I'd like to learn:
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 🌟 I have also used:
@@ -50,6 +49,7 @@ And that's about it! If you want to know more about me, you can read on below to
 ![OpenJDK](https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 
 </details>
 
@@ -70,6 +70,7 @@ And that's about it! If you want to know more about me, you can read on below to
 
 📚 I'm learning:
 
+![Three.js](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
@@ -78,13 +79,13 @@ And that's about it! If you want to know more about me, you can read on below to
 ![Bun](https://img.shields.io/badge/-Bun-FFD500?style=for-the-badge&logo=bun&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Fastify](https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)
-![Three.js](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
 
 🌟 I have also used:
 
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 ![Nuxt.js](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![P5.js](https://img.shields.io/badge/p5%20js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white)
 
 </details>
@@ -153,6 +154,7 @@ And that's about it! If you want to know more about me, you can read on below to
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
 ![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+![Rome](https://img.shields.io/badge/Rome-FFD700?style=for-the-badge&logo=Rome&logoColor=000000)
 ![Copilot](https://img.shields.io/badge/-Copilot-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </details>
