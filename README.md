@@ -163,7 +163,7 @@ And that's about it! If you want to know more about me, you can read below to se
 
 ## 📈 Stats
 
-| ![Top Langs](https://github-readme-stats-eight-chi-98.vercel.app/api/top-langs/?username=mael-queau&layout=compact&theme=transparent&hide_border=1&langs_count=10&exclude_repo=dotfiles&count-private=true) | ![GitHub stats](https://github-readme-stats-eight-chi-98.vercel.app/api?username=mael-queau&show_icons=true&theme=transparent&hide_title=true&hide_border=1&line_height=33&count_private=true&include_all_commits=true) |
+| ![Top Langs](https://github-readme-stats-eight-chi-98.vercel.app/api/top-langs/?username=mael-queau&layout=compact&theme=transparent&hide_border=1&langs_count=10&count-private=true&exclude_repo=dotfiles) | ![GitHub stats](https://github-readme-stats-eight-chi-98.vercel.app/api?username=mael-queau&show_icons=true&theme=transparent&hide_title=true&hide_border=1&line_height=33&include_all_commits=true&count_private=true) |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## 📫 Contact
