@@ -1,6 +1,6 @@
 # Welcome 👁️
 
-![Profile hits](https://komarev.com/ghpvc/?username=mael-queau&color=blue&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=mael-queau&color=blue&style=for-the-badge)
 
 I'm a developer and student at Epitech, a French school specialising in Computer Science. 🎓
 
